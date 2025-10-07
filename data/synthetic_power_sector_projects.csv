@@ -1,0 +1,51 @@
+Project_ID,Project_Type,Capacity_MW_or_km,Region,Terrain,Planned_Duration_Months,Planned_Cost_Cr,Contractor_Experience_Level,Start_Year,Actual_Duration_Months,Actual_Cost_Cr
+P1000,Wind Farm,141,North,Plain,53,1419,Low,2010,74,1938
+P1001,Hydro Plant,416,North-East,Hilly,55,1584,High,2010,54,1415
+P1002,Solar Plant,504,North-East,Plain,35,196,Medium,2021,46,301
+P1003,Hydro Plant,477,North,Hilly,26,1221,Medium,2021,32,1442
+P1004,Hydro Plant,558,North,Plain,43,913,Low,2023,46,940
+P1005,Substation,825,North,Plain,43,1784,Medium,2022,49,1642
+P1006,Solar Plant,992,North,Plain,35,1893,High,2023,36,1868
+P1007,Solar Plant,84,West,Hilly,52,538,Low,2014,65,834
+P1008,Solar Plant,255,East,Hilly,23,978,High,2015,21,1299
+P1009,Hydro Plant,130,East,Hilly,50,1713,High,2012,45,2119
+P1010,Wind Farm,981,North,Hilly,13,600,Medium,2021,16,805
+P1011,Solar Plant,611,East,Plain,14,387,Medium,2018,14,455
+P1012,Hydro Plant,921,East,Hilly,48,921,Medium,2014,45,1287
+P1013,Substation,437,North,Plain,28,690,Medium,2017,31,611
+P1014,Wind Farm,51,East,Plain,13,1852,Medium,2022,12,2360
+P1015,Substation,439,North-East,Hilly,13,522,Low,2010,18,505
+P1016,Wind Farm,615,South,Hilly,39,200,High,2023,35,188
+P1017,Hydro Plant,155,South,Hilly,34,1488,High,2014,42,1646
+P1018,Transmission Line,821,North,Hilly,48,1371,High,2024,55,1259
+P1019,Wind Farm,871,West,Hilly,43,1684,High,2012,56,1550
+P1020,Substation,526,North,Hilly,44,312,Medium,2021,48,338
+P1021,Hydro Plant,752,West,Hilly,12,1837,High,2010,11,2910
+P1022,Wind Farm,451,South,Hilly,30,193,Low,2013,44,189
+P1023,Transmission Line,779,North,Plain,13,395,Low,2024,18,340
+P1024,Transmission Line,605,North-East,Hilly,55,673,High,2022,77,957
+P1025,Solar Plant,211,East,Hilly,37,1066,High,2014,38,1551
+P1026,Solar Plant,251,West,Plain,43,1645,Low,2016,39,1825
+P1027,Substation,319,East,Hilly,17,930,Low,2010,18,1114
+P1028,Wind Farm,912,East,Plain,43,51,Medium,2012,52,68
+P1029,Wind Farm,865,North,Plain,15,946,Low,2011,16,838
+P1030,Solar Plant,320,East,Hilly,22,1377,Medium,2018,30,2150
+P1031,Wind Farm,505,North-East,Plain,28,303,Medium,2019,29,459
+P1032,Wind Farm,511,East,Plain,49,1725,Medium,2024,72,1803
+P1033,Transmission Line,776,North,Plain,35,502,Medium,2015,41,432
+P1034,Solar Plant,301,North-East,Plain,16,1110,Medium,2019,22,1720
+P1035,Hydro Plant,751,South,Hilly,45,1233,High,2012,45,1511
+P1036,Solar Plant,345,East,Plain,17,1064,Low,2017,19,1334
+P1037,Hydro Plant,774,North,Hilly,33,58,Medium,2023,43,79
+P1038,Transmission Line,769,South,Plain,22,1306,Low,2017,21,1713
+P1039,Substation,798,South,Plain,59,1172,Low,2011,57,1825
+P1040,Wind Farm,387,West,Plain,27,1732,Medium,2024,40,2698
+P1041,Transmission Line,928,North-East,Plain,44,865,High,2015,58,1297
+P1042,Wind Farm,102,East,Hilly,20,257,Medium,2016,18,341
+P1043,Substation,841,North,Hilly,17,1204,High,2011,19,1746
+P1044,Substation,971,West,Plain,27,453,Low,2024,31,615
+P1045,Transmission Line,266,North-East,Plain,40,201,High,2020,53,257
+P1046,Substation,813,West,Hilly,14,103,High,2019,14,97
+P1047,Hydro Plant,237,North-East,Plain,31,1193,High,2011,31,1739
+P1048,Substation,429,North-East,Plain,47,1746,Low,2019,44,2558
+P1049,Wind Farm,542,East,Plain,30,1993,Low,2010,34,2629
